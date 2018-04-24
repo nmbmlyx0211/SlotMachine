@@ -1,0 +1,2 @@
+In this assignment you will be implementing a class SpellChecker that checks if words in a file are 
+correct based on a dictionary that can be altered to include more correct words. The output of the spell checker will be a new text file that contains only valid words. 
