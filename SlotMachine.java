@@ -1,7 +1,4 @@
-package edu.njit.cs602.s2018.assignments;
-/* Assignment 1
- * SlotMachine project created by Yinxia Li
- */
+
 
 import java.util.Arrays;
 
